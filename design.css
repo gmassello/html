@@ -13,5 +13,21 @@ h1 {
   text-indent: 20px;
   text-transform: lowercase;
   text-transform: capitalize;
+
+  padding: 30px;
+  padding: 20px 30px 40px 50px;
+  padding-top: 20px;
+  padding-right: 30px;
+  padding-bottom: 40px;
+  padding-left: 50px;
+
+  border: 5px solid #ff0000;
+  border-top: 5px solid #ff0000;
 }
 
+/* 
+Box Model:
+content-padding-border-margin
+
+
+ */
