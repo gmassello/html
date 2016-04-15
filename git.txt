@@ -5,3 +5,4 @@ git log -- index.html
 gitk
 git checkout c7fe19780b4049010d4d8a80cb4b59240fcf34fd
 git checkout master
+git status
